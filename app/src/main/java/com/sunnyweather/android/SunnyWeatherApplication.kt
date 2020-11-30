@@ -8,7 +8,7 @@ class SunnyWeatherApplication : Application() {
     companion object {
         @SuppressWarnings("StaticFieldLeak")
         lateinit var context: Context
-        const val TOKEN = "1"
+        const val TOKEN = "O5bKvxh8CBWgaUzg"
     }
 
     override fun onCreate() {
